@@ -1,25 +1,16 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Web Development Technologies in Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
- and Databases (MongoDB). I like to use GCP for Cloud Solutions. :octocat:
-
-🚀 Some of my main projects:
-
-- 🔭 I’m currently working on a Project in Angular and another Project with MongoDb and NodeJS:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=angular-web-portfolio)](https://github.com/minoveaz/angular-web-portfolio)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=node-app)](https://github.com/minoveaz/node-app)
+- 🌱 I’m currently working as a Site Reliability Engineer Intern at Crest Data Systems :octocat:
 
 
--  🤖 I work in Deloitte Robotics Spain
+-  🤖 I'm studying 4th Yr of my Computer Engineering Bachelors
 
 - :bar_chart: I love Stats and make cool Dashboards
 
 <p> 
-📫  Born in Bogotá, Colombia <img src="https://image.flaticon.com/icons/svg/197/197575.svg" width="13"/>
+📫  Born in Kakinada, Andhra Pradesh 
 <br>
-📌  Living in Madrid, Spain <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/>
+📌  Living in Vadodara, Gujarat 
 </p>
 
 <hr>
@@ -27,10 +18,10 @@
 ## Follow Me
 
 
-[![Gmail Badge](https://img.shields.io/badge/-ing.miller.vega@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:ing.miller.vega@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minoveaz/)](https://www.linkedin.com/in/minoveaz/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz)](https://github.com/minoveaz)
-[![Twitter Badge](https://img.shields.io/badge/-@minoveaz-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=minoveaz "Follow on Twitter")
+[![Gmail Badge](https://img.shields.io/badge/-eshwarsunder@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eshwarsunder@gmail.com)](mailto:eshwarsunder@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kodi-sundereshwar/)](https://www.linkedin.com/in/kodi-sundereshwar/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz)](https://github.com/sundereshwar)
+[![Twitter Badge](https://img.shields.io/badge/-@sundereshwar-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=sundereshwar "Follow on Twitter")
 
 <hr>
 
@@ -49,10 +40,10 @@
 
 <hr>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=minoveaz&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minoveaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sundereshwar&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sundereshwar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=minoveaz)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sundereshwar)
 
 <hr>
 
@@ -71,7 +62,7 @@
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm a Night 🦉** 
+**I'm a Eve 🦉** 
 
 ```text
 🌞 Morning    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.76% 
